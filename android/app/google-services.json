@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "570895738224",
+    "firebase_url": "https://world-clock-828e1.firebaseio.com",
+    "project_id": "world-clock-828e1",
+    "storage_bucket": "world-clock-828e1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:570895738224:android:5fdad0227d35a5bcd3dbb5",
+        "android_client_info": {
+          "package_name": "com.example.WorldTime"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "570895738224-vni2h0sg9q58eio6ooghlb0oobscmmi3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB93ugBvKTzDpoEml3bDW3GAP8ZSZFsADc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "570895738224-vni2h0sg9q58eio6ooghlb0oobscmmi3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
